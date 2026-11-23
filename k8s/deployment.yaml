@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: react-demo
-          image: charanraj165/react-demo:sha-bd4538c0b9c3345a0766b7a910c69cb1f6ad8f4f
+          image: charanraj165/react-demo:sha-d34ee12d18fc3ac8e7e458bab29567b662330890
           ports:
             - containerPort: 80
